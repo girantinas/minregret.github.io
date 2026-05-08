@@ -5,6 +5,10 @@ title: Research
 
 # Research
 
+## AI Alignment
+
+- We are exploring a game-theoretic approach to AI alignment that draws on mechanism design to align agents through incentives rather than instructions. Inspired by Becker's [Rational Offender](https://www.journals.uchicago.edu/doi/10.1086/259394) model, we [formulated agentic alignment](https://arxiv.org/abs/2605.01643) as a bilevel bandit optimization problem.
+
 ## Sequence Prediction and Spectral Transformers
 
 - Recent research from our lab connects learning in dynamical systems to sequence prediction via a new architecture called [Spectral Transformers](https://sites.google.com/view/gbrainprinceton/projects/spectral-transformers), more information and recent publications in [this link](https://sites.google.com/view/gbrainprinceton/projects/spectral-transformers). This research is done in collaboration with [Google DeepMind Princeton](https://sites.google.com/view/gbrainprinceton/home).
@@ -13,7 +17,7 @@ title: Research
 
 - A new framework for robust control called [Non-Stochastic Control](https://arxiv.org/abs/2211.09619). This permits control in adversarial environments via a new type of algorithm, the [Gradient Perturbation Controller](https://arxiv.org/abs/1902.08721), which also gives rise to the first [logarithmic regret](https://arxiv.org/abs/1909.05062) in online control.
 
-  In this framework we can also control with [unknown systems](https://arxiv.org/abs/1911.12178) and [partially observed states](https://arxiv.org/abs/2001.09254).
+  In this framework, we can also control with [unknown systems](https://arxiv.org/abs/1911.12178) and [partially observed states](https://arxiv.org/abs/2001.09254).
   Recent additions include  [Non-Stochastic Control with Bandit Feedback](https://arxiv.org/pdf/2008.05523) , [Black-Box Control for Linear Dynamical Systems](https://arxiv.org/pdf/2007.06650) , [Adaptive Regret for Control of Time-Varying Dynamics](https://arxiv.org/pdf/2007.04393)
 
   For a survey, see [this book draft](https://arxiv.org/abs/2211.09619).
